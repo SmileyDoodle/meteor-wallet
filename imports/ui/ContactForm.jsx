@@ -93,7 +93,7 @@ export const ContactForm = () => {
           />
         </div>
       </div>
-      <div className="px-2 py-3 text-right">
+      <div className="py-3 text-right">
         <button
           type="button"
           onClick={saveContact}
