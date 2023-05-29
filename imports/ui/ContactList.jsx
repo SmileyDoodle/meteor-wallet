@@ -71,6 +71,9 @@ export const ContactList = () => {
                   <p className="text-sm font-medium text-gray-500 truncate">
                     {contact.email}
                   </p>
+                  <p className="text-sm font-medium text-gray-500 truncate">
+                    {contact.walletId}
+                  </p>
                 </div>
                 <div>
                   <a
