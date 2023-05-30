@@ -1,5 +1,5 @@
 import React from "react";
-import { ContactsCollection } from "../api/ContactsCollection";
+import { ContactsCollection } from "../api/collections/ContactsCollection";
 import { useTracker, useSubscribe, useFind } from "meteor/react-meteor-data";
 import { ArchiveIcon, UserIcon } from "@heroicons/react/solid";
 
